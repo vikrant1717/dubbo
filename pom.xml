@@ -175,6 +175,7 @@
     <dubbo-shared-resources.version>1.0.0</dubbo-shared-resources.version>
     <palantirJavaFormat.version>2.38.0</palantirJavaFormat.version>
     <revision>3.3.6</revision>
+     <sonar.organization>vikrant1717</sonar.organization>
   </properties>
 
   <dependencyManagement>
